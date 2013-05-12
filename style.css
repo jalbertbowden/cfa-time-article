@@ -1,13 +1,27 @@
-ol{margin:0;padding:0}
-.c6{max-width:468pt;background-color:#ffffff;padding:72pt 72pt 72pt 72pt}
-.c0{font-size:8pt;font-family:"Georgia";font-weight:bold}.c3{height:11pt;direction:ltr}
-.c1{font-family:"Georgia"}.c4{direction:ltr}.c7{font-size:21pt}.c5{line-height:1.1428571428571428}
-.c2{font-weight:bold}.title{padding-top:0pt;line-height:1.15;text-align:left;color:#000000;font-size:21pt;font-family:"Trebuchet MS";padding-bottom:0pt}
-.subtitle{padding-top:0pt;line-height:1.15;text-align:left;color:#666666;font-style:italic;font-size:13pt;font-family:"Trebuchet MS";padding-bottom:10pt}
-li{color:#000000;font-size:11pt;font-family:"Arial"}p{color:#000000;font-size:11pt;margin:0;font-family:"Arial"}
-h1{padding-top:10pt;line-height:1.15;text-align:left;color:#000000;font-size:16pt;font-family:"Trebuchet MS";padding-bottom:0pt}
-h2{padding-top:10pt;line-height:1.15;text-align:left;color:#000000;font-size:13pt;font-family:"Trebuchet MS";font-weight:bold;padding-bottom:0pt}
-h3{padding-top:8pt;line-height:1.15;text-align:left;color:#666666;font-size:12pt;font-family:"Trebuchet MS";font-weight:bold;padding-bottom:0pt}
-h4{padding-top:8pt;line-height:1.15;text-align:left;color:#666666;font-size:11pt;text-decoration:underline;font-family:"Trebuchet MS";padding-bottom:0pt}
-h5{padding-top:8pt;line-height:1.15;text-align:left;color:#666666;font-size:11pt;font-family:"Trebuchet MS";padding-bottom:0pt}
-h6{padding-top:8pt;line-height:1.15;text-align:left;color:#666666;font-style:italic;font-size:11pt;font-family:"Trebuchet MS";padding-bottom:0pt}
+ol{margin:0; padding:0}
+.c6{max-width:468pt; background-color:#fff; padding:72pt 72pt 72pt 72pt}
+.c0{font-size:8pt; font-family:"Georgia"; font-weight:bold}
+.c3{height:11ptr}
+
+
+.c7{font-size:21pt}
+.c5{line-height:1.1428571428571428}
+.c2{font-weight:bold}
+
+.title,.subtitle{padding-top:0pt; line-height:1.15; text-align:left; font-family:"Trebuchet MS"}
+.title{color:#000; font-size:21pt; padding-bottom:0pt}
+.subtitle{color:#666; font-style:italic; font-size:13pt; padding-bottom:10pt}
+
+li,p{color:#000; font-size:11pt; font-family:"Arial"}
+p{1em 1.25em; font-family:"Georgia"}
+h1,h2,h3,h4,h5,h6{line-height:1.15; text-align:left; font-family:"Trebuchet MS"; padding-bottom:0}
+
+h1,h2{padding-top:10pt; color:#000}
+h3,h4,h5,h6{padding-top:8pt; color:#666}
+
+h1{font-size:16pt}
+h2{font-size:13pt; font-weight:bold}
+h3{font-size:12pt; font-weight:bold}
+h4{font-size:11pt; text-decoration:underline}
+h5{font-size:11pt}
+h6{font-style:italic; font-size:11pt}
